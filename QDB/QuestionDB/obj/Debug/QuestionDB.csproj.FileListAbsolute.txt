@@ -1,0 +1,25 @@
+C:\Users\Vidusha\Downloads\QDB\QuestionDB\obj\Debug\QuestionDB.Form1.resources
+C:\Users\Vidusha\Downloads\QDB\QuestionDB\obj\Debug\QuestionDB.Properties.Resources.resources
+C:\Users\Vidusha\Downloads\QDB\QuestionDB\obj\Debug\QuestionDB.csproj.GenerateResource.cache
+C:\Users\Vidusha\Downloads\QDB\QuestionDB\obj\Debug\QuestionDB.csproj.CoreCompileInputs.cache
+C:\Users\Vidusha\Downloads\QDB\QuestionDB\bin\Debug\QuestionDB.exe.config
+C:\Users\Vidusha\Downloads\QDB\QuestionDB\bin\Debug\QuestionDB.exe
+C:\Users\Vidusha\Downloads\QDB\QuestionDB\bin\Debug\QuestionDB.pdb
+C:\Users\Vidusha\Downloads\QDB\QuestionDB\bin\Debug\System.Data.SQLite.dll
+C:\Users\Vidusha\Downloads\QDB\QuestionDB\bin\Debug\System.Data.SQLite.xml
+C:\Users\Vidusha\Downloads\QDB\QuestionDB\obj\Debug\QuestionDB.csproj.CopyComplete
+C:\Users\Vidusha\Downloads\QDB\QuestionDB\obj\Debug\QuestionDB.exe
+C:\Users\Vidusha\Downloads\QDB\QuestionDB\obj\Debug\QuestionDB.pdb
+D:\Question SOFTWARE\QuestionDPA\QDB\QuestionDB\bin\Debug\QuestionDB.exe.config
+D:\Question SOFTWARE\QuestionDPA\QDB\QuestionDB\bin\Debug\QuestionDB.exe
+D:\Question SOFTWARE\QuestionDPA\QDB\QuestionDB\bin\Debug\QuestionDB.pdb
+D:\Question SOFTWARE\QuestionDPA\QDB\QuestionDB\bin\Debug\System.Data.SQLite.dll
+D:\Question SOFTWARE\QuestionDPA\QDB\QuestionDB\bin\Debug\System.Data.SQLite.xml
+D:\Question SOFTWARE\QuestionDPA\QDB\QuestionDB\obj\Debug\QuestionDB.csproj.AssemblyReference.cache
+D:\Question SOFTWARE\QuestionDPA\QDB\QuestionDB\obj\Debug\QuestionDB.Form1.resources
+D:\Question SOFTWARE\QuestionDPA\QDB\QuestionDB\obj\Debug\QuestionDB.Properties.Resources.resources
+D:\Question SOFTWARE\QuestionDPA\QDB\QuestionDB\obj\Debug\QuestionDB.csproj.GenerateResource.cache
+D:\Question SOFTWARE\QuestionDPA\QDB\QuestionDB\obj\Debug\QuestionDB.csproj.CoreCompileInputs.cache
+D:\Question SOFTWARE\QuestionDPA\QDB\QuestionDB\obj\Debug\QuestionDB.csproj.CopyComplete
+D:\Question SOFTWARE\QuestionDPA\QDB\QuestionDB\obj\Debug\QuestionDB.exe
+D:\Question SOFTWARE\QuestionDPA\QDB\QuestionDB\obj\Debug\QuestionDB.pdb
